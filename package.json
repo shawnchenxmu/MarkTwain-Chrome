@@ -1,0 +1,33 @@
+{
+  "name": "marktwain-chrome",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawnchenxmu/MarkTwain-Chrome.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shawnchenxmu/MarkTwain-Chrome/issues"
+  },
+  "homepage": "https://github.com/shawnchenxmu/MarkTwain-Chrome#readme",
+  "dependencies": {
+    "marked": "^0.3.17",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "node-sass": "^4.7.2",
+    "parcel-bundler": "^1.6.2",
+    "sass-loader": "^6.0.7",
+    "webpack": "^4.1.1"
+  },
+  "keywords": [],
+  "description": ""
+}
