@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom'
 import Editor from './src/components/editor'
 
 import './style/main.scss'
+import './style/mark.scss'
 
 class App extends Component {
 	render() {

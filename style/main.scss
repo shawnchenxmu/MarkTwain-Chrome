@@ -40,6 +40,7 @@ html {
 		}
 	}
 	.editor-preview {
+		overflow: scroll;
 		box-sizing: border-box;
 		padding: 20px;
 		display: inline-block;
